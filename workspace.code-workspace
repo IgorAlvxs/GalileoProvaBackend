@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "produtos"
+		},
+		{
+			"name": "vendas",
+			"path": "vendas"
+		},
+		{
+			"name": "eureka",
+			"path": "eureka"
+		},
+		{
+			"name": "zuul",
+			"path": "zuul"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"liveServer.settings.multiRootWorkspaceName": "produtos"
+	}
+}
